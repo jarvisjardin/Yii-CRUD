@@ -1,2 +1,3 @@
 # Yii-CRUD
-Login System and basic CRUD
+
+This project is login system and basic CRUD using Yii.
